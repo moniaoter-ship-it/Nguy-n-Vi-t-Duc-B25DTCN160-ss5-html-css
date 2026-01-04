@@ -3,21 +3,13 @@ body {
     text-align: center;
     line-height: 1.6;
 }
-
-.address-component {
-    max-width: 800px;
-    margin: 20px auto;
-    border: 1px solid #f0f0f0;
-}
-
-/* Phần nền xanh nhạt phía trên */
 .header-section {
-    background-color: #f0f4ff; /* Màu xanh rất nhạt */
+    background-color: #f0f4ff; 
     padding: 30px 20px;
 }
 
 .main-title {
-    color: #1e90ff; /* Màu xanh dương tiêu đề */
+    color: #1e90ff; 
     margin-bottom: 10px;
 }
 
@@ -29,13 +21,6 @@ body {
 
 .image-container img {
     max-width: 100%;
-    height: auto;
-    border: 1px solid #ddd;
-}
-
-/* Phần danh sách địa chỉ */
-.branches-section {
-    padding: 20px;
 }
 
 .branch-title {
@@ -43,7 +28,6 @@ body {
     margin-bottom: 15px;
 }
 
-/* Định dạng riêng từng dòng địa chỉ theo mẫu */
 .branch-1 {
     color: red;
 }
