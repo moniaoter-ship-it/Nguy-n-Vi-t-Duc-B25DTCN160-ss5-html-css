@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    line-height: 1.6;
+}
+.header-section {
+    background-color: #f0f4ff; 
+    padding: 30px 20px;
+}
+
+.main-title {
+    color: #1e90ff; 
+    margin-bottom: 10px;
+}
+
+.sub-title {
+    color: #4a90e2;
+    font-size: 0.9em;
+    margin-bottom: 20px;
+}
+
+.image-container img {
+    max-width: 100%;
+}
+
+.branch-title {
+    color: #1e90ff;
+    margin-bottom: 15px;
+}
+
+.branch-1 {
+    color: red;
+}
+
+.branch-2 {
+    color: #555;
+}
+
+.branch-3 {
+    color: #555;
+}
+
+.branch-4 {
+    color: #000;
+}
