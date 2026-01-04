@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+.title-blue {
+    color: #1e90ff;
+    text-transform: capitalize;
+}
+
+.doctor-card {
+    padding: 20px;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.doctor-card:hover {
+    background-color: #e6f7ff;
+}
+
+.doctor-card img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto 15px;
+}
+
+.doctor-name {
+    color: #1e90ff;
+    margin-bottom: 5px;
+}
+
+.specialty {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.divider {
+    border: 0;
+    border-top: 1px solid #ddd;
+    width: 80%;
+    margin-top: 30px;
+}

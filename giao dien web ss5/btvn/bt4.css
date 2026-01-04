@@ -1,0 +1,16 @@
+.info {
+    background-color: #f4f4f9;
+    padding: 20px;
+    width: 750px;
+    margin: 50px auto;
+}
+
+.info h2 {
+    color: #1e90ff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.info p {
+    margin: 8px 0;
+}

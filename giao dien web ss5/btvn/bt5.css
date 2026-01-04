@@ -1,0 +1,30 @@
+.feedback-form {
+    width: 350px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.feedback-form h2 {
+    color: #1e90ff;
+    margin-bottom: 20px;
+}
+
+.feedback-form input,
+.feedback-form textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #1e90ff;
+    box-sizing: border-box;
+}
+
+.feedback-form textarea {
+    height: 100px;
+}
+
+.feedback-form button {
+    background-color: #00bfff;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+}

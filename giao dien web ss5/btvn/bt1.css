@@ -1,0 +1,20 @@
+header {
+    background-color: #1eff29;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    width: 600px;
+    margin: 50px auto;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+header p {
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 18px;
+}
